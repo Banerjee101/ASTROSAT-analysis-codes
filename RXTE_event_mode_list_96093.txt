@@ -1,0 +1,9 @@
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96093/96093-01-01-00/pca/FS4f_20fa6aba-20fa6b17
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96093/96093-01-01-01/pca/FS4f_20f6df30-20f6e6da
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96093/96093-01-01-02/pca/FS4f_20f85690-20f85f06
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96093/96093-01-01-03/pca/FS4f_20f98aa0-20f991d2
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96093/96093-01-02-00/pca/FS4f_20fb4380-20fb4ccb
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96093/96093-01-02-01/pca/FS4f_20fc8e00-20fc9b3e
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96093/96093-01-02-02/pca/FS4f_20fdc270-20fdce0a
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96093/96093-01-02-03/pca/FS4f_20fee0d0-20fee92a
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96093/96093-01-02-04/pca/FS4f_21002b50-2100332a

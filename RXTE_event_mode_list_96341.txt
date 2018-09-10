@@ -1,0 +1,4 @@
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96341/96341-01-01-00/pca/FS4f_21a63c86-21a64347
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96341/96341-01-01-01/pca/FS4f_21a716ec-21a721b3
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96341/96341-01-01-02/pca/FS4f_21a87800-21a881f6
+/home/ankush/Desktop/Workspace_project/1A_2466-588/RXTE/Data/P96341/96341-01-01-02/pca/FS4f_21a887e0-21a897c2
